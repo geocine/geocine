@@ -5,9 +5,9 @@
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
 
-📚 Interested in exploring: _Game Development_, _Compilers_, _Reverse Engineering_, _Web3_, _3D Modelling_
+📚 I’m interested in exploring: _Game Development_, _Compilers_, _Reverse Engineering_, _Web3_, _3D Modelling_
 
-👁️ Keeping an eye on the follow: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [MAUI](https://github.com/dotnet/maui), [Astro](https://github.com/snowpackjs/astro)
+👀 I'm keeping an eye on: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [MAUI](https://github.com/dotnet/maui), [Astro](https://github.com/snowpackjs/astro)
 
 ⚡ Other interests: _Rubik's Cube_ _(~17s PB)_, _Computer Hardware/Peripherals_, _Mechanical Keyboards_, _PCB Design_, _Language Learning_, _Anime_, _KPOP_, _ARPG_, _Music (Guitar)_, _Digital Illustration_
 
