@@ -1,4 +1,7 @@
 ### Hi 👋 I'm Geocine 🌎
+
+/dʒiːəʊ-saɪn/ - "geo-sign"
+
 🔭 Building front-end applications, web APIs, system utilities and development tools using JavaScript, TypeScript, C# and Go
 
 🌱 I’m currently learning: _Reverse Engineering_, _Assembly_, _C++_
