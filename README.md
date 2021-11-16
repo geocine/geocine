@@ -4,7 +4,7 @@
 
 🔭 Building front-end applications, web APIs, system utilities and development tools using JavaScript, TypeScript, C# and Go
 
-🌱 I’m currently learning: _Reverse Engineering_, _Assembly_, _C++_
+🌱 I’m currently learning: _JavaScript_, _Ionic_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
 
