@@ -4,7 +4,7 @@
 
 🔭 Building front-end applications, web APIs, system utilities and development tools using JavaScript, TypeScript, C# and Go
 
-🌱 I’m currently learning: _Game Development, _TypeScript_
+🌱 I’m currently learning: _Game Development_, _TypeScript_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
 
