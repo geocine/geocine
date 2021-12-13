@@ -2,8 +2,6 @@
 
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
-🔭 Building front-end applications, web APIs, system utilities and development tools using JavaScript, TypeScript, C# and Go
-
 🌱 I’m currently learning: _Game Development_, _TypeScript_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
@@ -12,6 +10,6 @@
 
 👀 I'm keeping an eye on: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [MAUI](https://github.com/dotnet/maui), [Astro](https://github.com/snowpackjs/astro)
 
-⚡ Other interests: _Rubik's Cube_ _(~17s PB)_, _Computer Hardware/Peripherals_, _Mechanical Keyboards_, _PCB Design_, _Language Learning_, _Anime_, _KPOP_, _ARPG_, _Music (Guitar)_, _Digital Illustration_
+⚡ Other interests: _Rubik's Cube_<sup>17s</sup>, _Computer Hardware/Peripherals_, _Mechanical Keyboards_, _PCB Design_, _Language Learning_, _Anime_, _ARPG_, _Music (Guitar)_, _Digital Illustration_, _CAD_
 
 📫 How to reach me: [Twitter](https://twitter.com/aivandroid), [LinkedIn](https://www.linkedin.com/in/aivan/), [StackOverflow](https://stackoverflow.com/users/372935/aivan-monceller), [Dev.to](https://dev.to/geocine), [Blog](https://aivan.io)
