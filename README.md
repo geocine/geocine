@@ -1,5 +1,3 @@
-### Hi 👋 I'm Geocine 🌎
-
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
 🌱 I’m currently learning: _Game Development_, _TypeScript_
