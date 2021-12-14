@@ -1,10 +1,10 @@
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
-🌱 I’m currently learning: _Game Development_, _TypeScript_
+🌱 I’m currently learning: _Game Programming_, _TypeScript_ , _UI Engineering_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
 
-📚 I’m interested in exploring: _Game Development_, _Compilers_, _Reverse Engineering_, _Web3_, _3D Modelling_
+📚 I’m interested in exploring: _Game Programming_, _Compilers_, _Reverse Engineering_, _Web3_, _3D Modelling_
 
 👀 I'm keeping an eye on: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [MAUI](https://github.com/dotnet/maui), [Astro](https://github.com/snowpackjs/astro)
 
