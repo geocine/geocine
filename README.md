@@ -6,7 +6,7 @@
 
 📚 I’m interested in exploring: _Game Programming_, _Compilers_, _Reverse Engineering_
 
-👀 I'm keeping an eye on: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [MAUI](https://github.com/dotnet/maui), [Astro](https://github.com/snowpackjs/astro)
+👀 I'm keeping an eye on: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [MAUI](https://github.com/dotnet/maui), [Remix](https://remix.run/)
 
 ⚡ Other interests: _Rubik's Cube_<sup>17s</sup>, _Computer Hardware/Peripherals_, _Mechanical Keyboards_, _PCB Design_, _Language Learning_, _Anime_, _ARPG_, _Music (Guitar)_, _Digital Illustration_, _CAD_, _3D Modelling_, _Animation_
 
