@@ -4,7 +4,7 @@
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
 
-📚 I’m interested in exploring: _Game Programming_, _Compilers_, _Reverse Engineering_
+📚 I’m interested in exploring: _Flutter_, _Compilers_, _Reverse Engineering_
 
 👀 I'm keeping an eye on: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [MAUI](https://github.com/dotnet/maui), [Remix](https://remix.run/)
 
