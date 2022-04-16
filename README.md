@@ -1,6 +1,6 @@
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
-🌱 I’m currently learning: _Game Programming_, _TypeScript_ , _UI Engineering_
+🌱 I’m currently learning: _Creative Coding_, _TypeScript_ , _UI Engineering_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
 
