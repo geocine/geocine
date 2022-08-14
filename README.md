@@ -1,10 +1,10 @@
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
-🌱 I’m currently learning: _Creative Coding_, _TypeScript_ , _UI/UX Engineering_
+🌱 I’m currently learning: _Compilers_ , _TypeScript_ , _UI/UX Engineering_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_
 
-📚 I’m interested in exploring: _Compilers_, _Reverse Engineering_, 
+📚 I’m interested in exploring: _Creative Coding_, _Reverse Engineering_, 
 
 👀 I'm keeping an eye on: [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [AvaloniaUI](https://avaloniaui.net/), [Remix](https://remix.run/)
 
