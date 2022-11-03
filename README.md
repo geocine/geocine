@@ -1,6 +1,6 @@
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
-🌱 I’m currently learning: _Compilers_ , _UI (on low-powered devices)_, _TypeScript_ , _UI/UX Engineering_
+🌱 I’m currently learning: _Python_, _Computer Vision_, _ML/AI_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_ -  _native/hybrid_
 
