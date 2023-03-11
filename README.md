@@ -1,10 +1,10 @@
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
-🌱 I’m currently learning: _Python_, _Rust_, _Computer Vision_, _ML/AI_
+🌱 I’m currently learning: _Python_, _Rust_, _Computer Vision_, _Generative AI_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_ -  _native/hybrid_
 
-📚 I’m interested in exploring: _Creative Coding_, _Reverse Engineering_, 
+📚 I’m interested in exploring: _Creative Coding_, _Reverse Engineering_, _Generative AI_
 
 👀 I'm keeping an eye on: [Diffusers](https://github.com/huggingface/diffusers), [Tauri](https://github.com/tauri-apps/tauri), [Flutter](https://github.com/flutter/flutter), [Godot](https://github.com/godotengine/godot), [AvaloniaUI](https://avaloniaui.net/), [Astro](https://astro.build/)
 
