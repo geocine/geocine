@@ -1,6 +1,6 @@
 /dʒiːəʊ-saɪn/ - "geo-sign"
 
-🌱 I’m currently learning: _Reverse Engineering_, _Python_, _Computer Vision_, _Generative AI_
+🌱 I’m currently learning: _Game Enhancement_, _Reverse Engineering_, _Python_, _Computer Vision_, _Generative AI_
 
 💬 Ask me about: _JavaScript_, _TypeScript_, _User Interfaces_ _(desktop/mobile/web)_ -  _native/hybrid_
 
