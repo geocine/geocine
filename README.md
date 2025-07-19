@@ -9,3 +9,5 @@
 ⚡ Other interests: _Rubik's Cube_<sup>17s</sup>, _Computer Hardware_ , _Mechanical Keyboards_ [(Phantom)](https://github.com/geocine/phantom), _Language Learning_, _Anime_, _ARPG_, _Music (Guitar)_, _Digital Illustration_, _CAD_, _3D Modelling_, _Animation_, _Pixel Art_,  _Kpop_
 
 📫 How to reach me: [Youtube](https://www.youtube.com/@aivandroid), [Twitter](https://twitter.com/aivandroid), [LinkedIn](https://www.linkedin.com/in/aivan/), [StackOverflow](https://stackoverflow.com/users/372935/aivan-monceller), [Dev.to](https://dev.to/geocine), [Blog](https://aivan.io)
+
+If you need GPUs for your AI workloads, please visit [QuickPod.io](https://console.quickpod.io/)
