@@ -10,4 +10,4 @@
 
 📫 How to reach me: [Youtube](https://www.youtube.com/@aivandroid), [X](https://twitter.com/aivandroid), [LinkedIn](https://www.linkedin.com/in/aivan/), [StackOverflow](https://stackoverflow.com/users/372935/aivan-monceller), [Dev.to](https://dev.to/geocine), [Blog](https://aivan.io)
 
-If you need GPUs for your AI workloads, please visit [QuickPod.io](https://console.quickpod.io/)
+You can find my starred repos [here](https://geocine-awesome.netlify.app/)
